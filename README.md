@@ -13,26 +13,19 @@
 -Adding new presentation and listing the presentations that you have added.
 ![resim](https://user-images.githubusercontent.com/7984679/151786547-879fe7a5-2d9d-468b-a237-86d33e58480e.png)
 
-- Load test data .
+- Load test data that Ilker Bey sent.
 
 ![resim](https://user-images.githubusercontent.com/7984679/151786847-fc2a9b80-c337-4b5b-b996-eb1ce896e353.png)
 
 - Calculate the Track days.. (networking=true by default)
 - ![resim](https://user-images.githubusercontent.com/7984679/151787023-1e6af836-4b88-40ad-9e50-369b17096009.png)
 
-Also you can add meeting request with using POST http request as below:
-<img width="652" alt="image" src="https://github.com/trademkose/meeting-scheduler/assets/7984679/c4bef599-0412-40c8-9667-eb8569c6467f">
 
 
 #UNIT TEST
 -JUNIT is used for Unit tests.
 - All tests are passed..
 - ![resim](https://user-images.githubusercontent.com/7984679/151786242-aa2fedd9-a579-4690-9014-7289995622ba.png)
-
-  
-unit test coverage.
-
-![image](https://github.com/trademkose/meeting-scheduler/assets/7984679/6a5b5805-28e6-46fa-a4b1-d5f66f3c29be)
 
 
 

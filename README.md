@@ -13,7 +13,7 @@
 -Adding new presentation and listing the presentations that you have added.
 ![resim](https://user-images.githubusercontent.com/7984679/151786547-879fe7a5-2d9d-468b-a237-86d33e58480e.png)
 
-- Load test data that Ilker Bey sent.
+- Load test data .
 
 ![resim](https://user-images.githubusercontent.com/7984679/151786847-fc2a9b80-c337-4b5b-b996-eb1ce896e353.png)
 
@@ -26,6 +26,11 @@
 -JUNIT is used for Unit tests.
 - All tests are passed..
 - ![resim](https://user-images.githubusercontent.com/7984679/151786242-aa2fedd9-a579-4690-9014-7289995622ba.png)
+
+  
+unit test coverage.
+
+![image](https://github.com/trademkose/meeting-scheduler/assets/7984679/6a5b5805-28e6-46fa-a4b1-d5f66f3c29be)
 
 
 
